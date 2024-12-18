@@ -6,7 +6,7 @@ import config
 
 TEXT = f"""
 🔒 **Privacy Policy for Bot Hub Bot's !**
-https://telegra.ph/BOT-HUB-Music-Bots-Privacy-Policy-12-18
+http://telegra.ph/BOT-HUB-MUSIC-BOT-PRIVACY-POLICY-12-18
 """
 
 @app.on_message(filters.command("privacy"))

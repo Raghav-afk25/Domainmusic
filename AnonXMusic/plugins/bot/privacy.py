@@ -6,10 +6,7 @@ import config
 
 TEXT = f"""
 🔒 **Privacy Policy for Bot Hub Bot's !**
-
-Your privacy is important to us. To learn more about how we collect, use, and protect your data, please review our Privacy Policy here: [Privacy Policy](https://telegra.ph/BOT-HUB-Music-Bots-Privacy-Policy-12-18).
-
-If you have any questions or concerns, feel free to reach out to our [support team](https://t.me/alice_x_support).
+https://telegra.ph/BOT-HUB-Music-Bots-Privacy-Policy-12-18
 """
 
 @app.on_message(filters.command("privacy"))
